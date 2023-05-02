@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "82ae4be14f300c2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "906378ab23604940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7560e79fdd43d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计模式/1. 介绍.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "45eeacdd6ff5c1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "亚马逊/listing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "396a00e5435dbfcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccf74c5d6cb3fdbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d6b82bbbe064667",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a216197d9a9a916a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374
+  },
+  "right": {
+    "id": "ecde970677de8218",
+    "type": "split",
+    "children": [
+      {
+        "id": "c895fb331aea7d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf64f5049a1f110",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "设计模式/1. 介绍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "e7560e79fdd43d75",
+  "lastOpenFiles": [
+    "JavaScript/原型链.md",
+    "JavaScript/变量对象.md",
+    "亚马逊/listing.md",
+    "设计模式/4. 提供者模式.md",
+    "设计模式/1. 介绍.md",
+    "设计模式/2. 单例模式.md",
+    "设计模式/3. 代理模式.md",
+    "JavaScript/立即执行函数.md",
+    "JavaScript/this.md",
+    "JavaScript/作用域.md",
+    "NestJS/概述/控制器.md",
+    "NestJS/概述/第一步.md",
+    "TypeScript/未命名.canvas",
+    "JavaScript/闭包.md",
+    "scope.md",
+    "JavaScript/继承.md",
+    "JavaScript/img/原型链.png",
+    "JavaScript/img/原型的原型.png",
+    "JavaScript/img/函数、对象和实例原型之间的更新关系.png",
+    "Pasted image 20230422121701.png",
+    "JavaScript/img/函数、对象和实例原型之间的关系.png",
+    "JavaScript/img/函数和实例原型之间的关系.png",
+    "JavaScript/img/函数、对象和实例原型之间的更新关系图.png",
+    "JavaScript/img",
+    "JavaScript",
+    "代码整洁之道",
+    "TypeScript/基础/1. 基础.md",
+    "TypeScript/基础/2. 常见类型.md",
+    "亚马逊/PEX Clamps.md",
+    "亚马逊/1. 注册亚马逊的注意事项.md",
+    "亚马逊/2. 选品入门.md",
+    "亚马逊/3. 选品的思路和步骤.md",
+    "前端优化/资源加载优化.md",
+    "React/JSX.md"
+  ]
+}
